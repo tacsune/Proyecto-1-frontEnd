@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: grid;
+    place-content: center;
+  }
+
+  .contenedor-principal{
+    margin-top: 25%;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Roboto', sans-serif;
+    width: 310px;
+    height: 450px;
+    text-align: center;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    
+  }
+
+  .contenedor-text{
+    margin: 0px 20px 0px 20px;
+  }
+
+  .img-qr{
+    margin: 15px 0px 0px 0px;
+    width: 285px;
+    border-radius: 15px;
+  }
+
+  .text{
+    font-size: 19px;
+    color: hsl(218, 44%, 22%);
+  }
